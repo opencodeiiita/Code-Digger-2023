@@ -25,7 +25,7 @@ Whoever wishes to participate in this project must follow these guidelines:
 
 <li>Do not make PR which is not related to any issues. You can create an issue and solve it once we approve them.</li>
 <li>Be polite: Be polite to other community members.</li>
-<li>Communicate: Whether you are working on a new correction or facing a doubt please feel free to ask us on our disocrd channel(specifically #CodeTrouble). We will be happy to help you out.</li>
+<li>Communicate: Whether you are working on a new correction or facing a doubt please feel free to ask us on our discord channel(specifically #CodeTrouble). We will be happy to help you out.</li>
 <li>Each issue should be resolved by either modifying or appending some lines of code.</li>
 <li>Mention the line number along with the Pull Request and further give suitable explanation. </li>
 </ul>
