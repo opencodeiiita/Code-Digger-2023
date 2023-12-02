@@ -51,4 +51,4 @@ For some more resources and guidance, you can also read these articles written b
 
 ## Note
 
-Happy Gold Digging ! :)
+Happy Code Digging ! :)
