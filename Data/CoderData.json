@@ -75,6 +75,14 @@
     "Name": "Krishay nair",
     "College": "Rajiv gandhi Institute of technology,Mumbai",
     "Passout Year": "2025",
+    "Song that defines your relationship status": [
+      "BYE",
+      "https://www.youtube.com/watch?v=DbiRVNeZPnw"
+    ],
+    "Song that defines your academic situation": [
+      "Toota Toota ek parinda aise Toota",
+      "https://www.youtube.com/watch?v=3DjnXpDRPFo"
+    ],
     "Your favourite senior name": [""],
     "celebrity crush": [""],
     "Best youtube video you ever watched": [
@@ -110,4 +118,52 @@
   "Discord username":"alinazakhirs",
   "Instagram":""
 },
+  {
+    "Name": "Harshal Gainer",
+    "College": "Indian Institute of Information Technology, Allahabad",
+    "Passout Year": "2026",
+    "Song that defines your relationship status": [
+      "Broken",
+      "https://www.youtube.com/watch?v=sFMRqxCexDk"
+    ],
+    "Song that defines your academic situation": [
+      "Toota Toota ek parinda aise Toota",
+      "https://www.youtube.com/watch?v=3DjnXpDRPFo"
+    ],
+    "Your favourite senior name": ["Aaditya Gupta"],
+    "celebrity crush": ["Ana de Armas"],
+    "Best youtube video you ever watched": [
+      "my name is Giovanni Georgio, but everybody calls me Giorgio",
+      "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+    ],
+    "Codeforces id": "https://codeforces.com/profile/abs_098",
+    "Codechef id": "https://www.codechef.com/users/abs_098",
+    "Atcoder id": "https://atcoder.jp/users/abs_098",
+    "Discord username": "billy49",
+    "Instagram": "https://www.instagram.com/_harshal_1001"
+  },
+  {
+    "Name": "Jai Khanna",
+    "College": "Indian Institute of Information Technology, Allahabad",
+    "Passout Year": "2026",
+    "Song that defines your relationship status": [
+      "BYE",
+      "https://www.youtube.com/watch?v=DbiRVNeZPnw"
+    ],
+    "Song that defines your academic situation": [
+      "Ratta Maar",
+      "https://www.youtube.com/watch?v=psWV9GdEgzo"
+    ],
+    "Your favourite senior name": ["Sanyam Agrawal Sir"],
+    "celebrity crush": ["Shraddha Kapoor"],
+    "Best youtube video you ever watched": [
+      "Baby shark",
+      "https://youtu.be/XqZsoesa55w?si=koSsy7AAnrHuOH4r"
+    ],
+    "Codeforces id": "https://codeforces.com/profile/jaikhanna615",
+    "Codechef id": "https://www.codechef.com/users/jaikhanna615",
+    "Atcoder id": "",
+    "Discord username": "jackofallcodez",
+    "Instagram": "https://www.instagram.com/jai_khanna04"
+  },
 ]
