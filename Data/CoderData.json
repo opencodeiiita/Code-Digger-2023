@@ -48,9 +48,9 @@
     "Instagram": "https://www.instagram.com/urstruly_mitthu"
   },
   {
-    "Name": "Krishay nair",
-    "College": "Rajiv gandhi Institute of technology,Mumbai",
-    "Passout Year": "2025",
+   "Name":"Vineesh Mittal",
+    "College": "Indian Institute of Information Technology, Allahabad",
+    "Passout Year": "2026",
     "Song that defines your relationship status": [
       "BYE",
       "https://www.youtube.com/watch?v=DbiRVNeZPnw"
@@ -59,6 +59,22 @@
       "Toota Toota ek parinda aise Toota",
       "https://www.youtube.com/watch?v=3DjnXpDRPFo"
     ],
+    "Your favourite senior name": ["Manas Gupta Sir"],
+    "celebrity crush": ["Jennifer Aniston"],
+    "Best youtube video you ever watched": [
+      "Sidemen Holiday",
+      "https://www.youtube.com/watch?v=5NxKNrfqUjs"
+    ],
+    "Codeforces id":"https://codeforces.com/profile/vineeshmittal19",
+    "Codechef id":"https://www.codechef.com/users/vineeshmittal1",
+    "Atcoder id":"https://atcoder.jp/users/vineeshmittal19",
+    "Discord username":"vineesh_23130",
+    "Instagram":"https://www.instagram.com/vineesh_mittal"
+  },
+  {
+    "Name": "Krishay nair",
+    "College": "Rajiv gandhi Institute of technology,Mumbai",
+    "Passout Year": "2025",
     "Your favourite senior name": [""],
     "celebrity crush": [""],
     "Best youtube video you ever watched": [
@@ -70,5 +86,5 @@
     "Atcoder id": "",
     "Discord username": "krishay3881",
     "Instagram": "https://www.instagram.com/krishay_nair/"
-  }
+  },
 ]
