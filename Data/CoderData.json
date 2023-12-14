@@ -614,7 +614,6 @@
     "Instagram": "https://www.instagram.com/imsushmitha/?hl=en"
   },
   {
-    
       "Name": "AtharvaChavan",
     "College": "Indian Institute of Information Technology, Allahabad",
     "Passout Year": "2026",
@@ -637,7 +636,8 @@
    "Atcoder id": "",
     "Discord username": "codebreaker7239",
     "Instagram": "https://www.instagram.com/_atharva.c_/"
-=======
+  },
+   {
     "Name": "Aniketh Pala",
     "College": "Vishwakarma Institute of technology, Pune",
     "Passout Year": "2026",
@@ -685,5 +685,24 @@
     "Atcoder id": "",
     "Discord username": "Aditya Arya#8561",
     "Instagram": "https://www.instagram.com/aditya.arya2.0/"
+  },
+  {
+    "Name": "Poonam Gate",
+    "College": "Indian Institute of Information Technology, Allahabad",
+    "Passout Year": "2026",
+    "Song that defines your relationship status": [
+      "",
+    ],
+    "Song that defines your academic situation": [
+      "Intkam",
+      "https://www.youtube.com/watch?v=BiVyN2ftrrs"
+    ],
+    "Your favourite senior name": [""],
+    "celebrity crush": [""],
+     "Codeforces id": "",
+   "Codechef id": "",
+    "Atcoder id": "",
+    "Discord username": "PG#8575",
+    "Instagram": ""
   },
 ]
