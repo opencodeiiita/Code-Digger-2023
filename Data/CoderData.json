@@ -269,6 +269,30 @@
     "Instagram": "https://www.instagram.com/prakhar_shukla.py"
   },
   {
+    "Name": "Mukul Singhal",
+    "College": "Indian Institute of Information Technology, Allahabad",
+    "Passout Year": "2026",
+    "Song that defines your relationship status": [
+      "ham tumse hua h pyar hm kya kren",
+      "https://www.youtube.com/watch?v=siw7-MTgE4s"
+    ],
+    "Song that defines your academic situation": [
+      "Toota Toota ek parinda aise Toota",
+      "https://www.youtube.com/watch?v=3DjnXpDRPFo"
+    ],
+    "Your favourite senior name": [""],
+    "celebrity crush": [""],
+    "Best youtube video you ever watched": [
+      " ",
+      " "
+    ],
+    "Codeforces id": "https://codeforces.com/profile/kingm01",
+    "Codechef id": "https://www.codechef.com/users/kingm01",
+    "Atcoder id": "https://atcoder.jp/users/kingm01",
+    "Discord username": "kingm01",
+    "Instagram": "https://www.instagram.com/mukul_singhal_1"
+  },
+  {
     "Name": "Aryan Raj",
     "College": "Indian Institute of Technology, Varanasi",
     "Passout Year": "2026",
@@ -1309,6 +1333,7 @@
     "Discord username": "ssugam10",
     "Instagram": "https://www.instagram.com/ssugam10"
     },
+<<<<<<< HEAD
     {
       "Name": "Piyush Tiwari",
       "College": "Indian Institute of Information Technology, Allahabad",
@@ -1332,4 +1357,54 @@
       "Atcoder id": "https://atcoder.jp/users/codc_noob",
       "Discord username": "piyushtiwariraj",
       "Instagram": "https://www.instagram.com/piyushtiwari_raj"
+=======
+  {
+    "Name": "Shubham Gupta",
+    "College": "Indian Institute of Information Technology, Allahabad",
+    "Passout Year": "2026",
+    "Song that defines your relationship status": [
+      "this is what heartbreak feels like",
+      "https://youtu.be/OsrJf_a5170?si=vTgWkqywdHCaG-Gj"
+    ],
+   "Song that defines your academic situation": [
+      "mammi shadi karwa do",
+      "https://youtu.be/8uyMrMyevCI?si=Fau7QU-1nujX83EY"
+    ],
+    "Your favourite senior name": [""],
+      "celebrity crush": ["Emma Watson"],
+    "Best youtube video you ever watched": [
+      "Lionel Messi humiliates great players",
+      "https://www.youtube.com/watch?v=bVOTjO78BxE"
+    ],
+    "Codeforces id": "https://codeforces.com/profile/jarvis77",
+    "Codechef id": "https://www.codechef.com/users/jarvis77",
+    "Atcoder id": "",
+    "Discord username": "jarvis77",
+    "Instagram": "https://www.instagram.com/shubhamm.guptaa"
+    },
+  {
+    "Name": "Akshit Goel",
+    "College": "Indian Institute of Technology (BHU), Varanasi",
+    "Passout Year": "2027",
+    "Song that defines your relationship status": [
+      "BYE",
+      "https://www.youtube.com/watch?v=DbiRVNeZPnw"
+    ],
+    "Song that defines your academic situation": [
+      "Breathless",
+      "https://www.youtube.com/watch?v=nWeax5joZFw"
+    ],
+    "Your favourite senior name": [""],
+    "celebrity crush": [""],
+    "Best youtube video you ever watched": [
+      "my name is Giovanni Georgio, but everybody calls me Giorgio",
+      "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+    ],
+    "Codeforces id": "",
+    "Codechef id": "https://www.codechef.com/users/aksgo",
+    "Atcoder id": "",
+    "Discord username": "akshit0833",
+    "Instagram": ""
+  },
+>>>>>>> 1bc791377f34c24501a8aa0010c25098c3ee391b
 ]
