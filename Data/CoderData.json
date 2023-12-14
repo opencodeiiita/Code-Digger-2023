@@ -24,6 +24,30 @@
     "Instagram": "https://www.instagram.com/Fremdder"
   },
   {
+    "Name": "Amitabh Singh",
+    "College": "Indian Institute of Technology, BHU (varanasi)",
+    "Passout Year": "2026",
+    "Song that defines your relationship status": [
+      "Pehli nazar me",
+      "https://youtu.be/BadBAMnPX0I?si=OqttRks9JGD_t47K"
+    ],
+    "Song that defines your academic situation": [
+      "Toota Toota ek parinda aise Toota",
+      "https://www.youtube.com/watch?v=3DjnXpDRPFo"
+    ],
+    "Your favourite senior name": ["Yash shimpi"],
+    "celebrity crush": [""],
+    "Best youtube video you ever watched": [
+      "my name is Giovanni Georgio, but everybody calls me Giorgio",
+      "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+    ],
+    "Codeforces id": "https://codeforces.com/profile/optimuspride",
+    "Codechef id": "https://www.codechef.com/users/optimuspride",
+    "Atcoder id": "",
+    "Discord username": "amitabh8532",
+    "Instagram": "https://www.instagram.com/amitabh_sama"
+  },
+  {
     "Name": "Apoorv Mittal",
     "College": "Jaypee Institute of Information Technology, Noida",
     "Passout Year": "2027",
@@ -48,7 +72,7 @@
     "Instagram": "https://www.instagram.com/urstruly_mitthu"
   },
   {
-    "Name": "Vineesh Mittal",
+   "Name":"Vineesh Mittal",
     "College": "Indian Institute of Information Technology, Allahabad",
     "Passout Year": "2026",
     "Song that defines your relationship status": [
@@ -65,11 +89,11 @@
       "Sidemen Holiday",
       "https://www.youtube.com/watch?v=5NxKNrfqUjs"
     ],
-    "Codeforces id": "https://codeforces.com/profile/vineeshmittal19",
-    "Codechef id": "https://www.codechef.com/users/vineeshmittal1",
-    "Atcoder id": "https://atcoder.jp/users/vineeshmittal19",
-    "Discord username": "vineesh_23130",
-    "Instagram": "https://www.instagram.com/vineesh_mittal"
+    "Codeforces id":"https://codeforces.com/profile/vineeshmittal19",
+    "Codechef id":"https://www.codechef.com/users/vineeshmittal1",
+    "Atcoder id":"https://atcoder.jp/users/vineeshmittal19",
+    "Discord username":"vineesh_23130",
+    "Instagram":"https://www.instagram.com/vineesh_mittal"
   },
   {
     "Name": "Krishay nair",
@@ -95,29 +119,29 @@
     "Discord username": "krishay3881",
     "Instagram": "https://www.instagram.com/krishay_nair/"
   },
-  {
-    "Name": "Alina Zakhir",
-    "College": "Massachusetts Institute of Technology Cambridge, Massachusetts, USA",
-    "Passout Year": "2026",
-    "Song that defines your relationship status": [
-      "Uska hi Banana",
-      "https://www.youtube.com/watch?v=x66LfjYJa2k"
-    ],
-    "Song that defines your academic situation": [
-      "Aal Izz Well",
-      "https://www.youtube.com/watch?v=7PzwOiW8-n0"
-    ],
-    "Your favourite senior name": ["Mason Garcia"],
-    "celebrity crush": [""],
-    "Best youtube video you ever watched": [
-      "Watching this video gave my couch PhD in laughter studies"
-    ],
-    "Codeforces id": "",
-    "Codechef id": "",
-    "Atcoder id": "",
-    "Discord username": "alinazakhirs",
-    "Instagram": ""
-  },
+{
+  "Name": "Alina Zakhir",
+  "College":"Massachusetts Institute of Technology Cambridge, Massachusetts, USA",
+  "Passout Year": "2026",
+  "Song that defines your relationship status": [
+    "Uska hi Banana",
+    "https://www.youtube.com/watch?v=x66LfjYJa2k"
+  ],
+  "Song that defines your academic situation" :[
+    "Aal Izz Well",
+    "https://www.youtube.com/watch?v=7PzwOiW8-n0"
+  ],
+  "Your favourite senior name": ["Mason Garcia"],
+  "celebrity crush": [""],
+  "Best youtube video you ever watched":[  
+    "Watching this video gave my couch PhD in laughter studies"
+  ],
+  "Codeforces id":"",
+  "Codechef id":"",
+  "Atcoder id":"",
+  "Discord username":"alinazakhirs",
+  "Instagram":""
+},
   {
     "Name": "Harshal Gainer",
     "College": "Indian Institute of Information Technology, Allahabad",
@@ -170,7 +194,7 @@
     "Name": "Prakhar Shukla",
     "College": "Indian Institute of Information Technology, Allahabad",
     "Passout Year": "2026",
-    "Song that defines your relationship status": [
+     "Song that defines your relationship status": [
       "Vo ladki bahut yaad aati hai... (Dont Open the link)",
       "https://www.youtube.com/watch?v=-6_7NywjE6I"
     ],
@@ -178,13 +202,7 @@
       "Believer (DOnt OPEN this one pls!!)",
       "https://www.youtube.com/shorts/rQIwkjBHp94"
     ],
-    "Your favourite senior name": [
-      "Pratiksh Sir",
-      "Shubham Panda sir",
-      "Yuvraj Sir",
-      "Hooman Sir",
-      "Anant Sir"
-    ],
+    "Your favourite senior name": ["Pratiksh Sir", "Shubham Panda sir","Yuvraj Sir","Hooman Sir","Anant Sir"],
     "celebrity crush": ["Scarlett Johansson"],
     "Best youtube video you ever watched": [
       "Top 5 ML Algorithms (DONT OPEN LINK!!)",
@@ -292,7 +310,7 @@
     "Discord username": "gpta.sujal",
     "Instagram": ""
   },
-  {
+{
     "Name": "Vraj Shah",
     "College": "Indian Institute of Information Technology, Allahabad",
     "Passout Year": "2026",
@@ -390,11 +408,15 @@
     "Instagram": "https://www.instagram.com/rohitpandey04/"
   },
   {
-    "Name": "Karan Deoli",
+  "Name": "Karan Deoli",
     "College": "Indian Institute of Information Technology, Allahabad",
     "Passout Year": "2026",
-    "Song that defines your relationship status": ["Hum Pe To Hai Hi No"],
-    "Song that defines your academic situation": [""],
+    "Song that defines your relationship status": [
+      "Hum Pe To Hai Hi No"
+    ],
+    "Song that defines your academic situation": [
+      ""
+    ],
     "Your favourite senior name": ["Hooman Sir"],
     "celebrity crush": ["Emma Watson"],
     "Best youtube video you ever watched": [
@@ -406,49 +428,73 @@
     "Discord username": "desperate_special",
     "Instagram": ""
   },
-   {
-  "Name": "Yuvraj Singh Kanoujia",
+  {
+  "Name": "Nishant Kale",
     "College": "Indian Institute of Information Technology, Allahabad",
     "Passout Year": "2026",
     "Song that defines your relationship status": [
-      "Tere Vaaste Falak sai mai chaand Launga"
+      "Tu hai Kahan"
     ],
     "Song that defines your academic situation": [
-      "Give me some Shunshine"
+      ""
     ],
-    "Your favourite senior name": ["Atul B Raj"],
-    "celebrity crush": ["Disha Patani"],
+    "Your favourite senior name": ["Archit Sir"],
+    "celebrity crush": ["Emma Watson"],
     "Best youtube video you ever watched": [
-      "https://www.youtube.com/watch?v=0Cyvhz1GmRI"
+      "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
     ],
-    "Codeforces id": "https://codeforces.com/profile/yuvrajdada",
-    "Codechef id": "https://www.codechef.com/users/alice_love_bob",
+    "Codeforces id": "",
+    "Codechef id": "",
     "Atcoder id": "",
-    "Discord username": "Yuvraj@123",
+    "Discord username": "nishantkale22#127",
     "Instagram": ""
   },
   {
-     "Name": "Pranav Bansal",
+    "Name": "Nandini Gupta",
     "College": "Indian Institute of Information Technology, Allahabad",
     "Passout Year": "2026",
     "Song that defines your relationship status": [
-      "BYE",
-      "https://www.youtube.com/watch?v=DbiRVNeZPnw"
+      "Tu hai Kahan",
+      "https://youtu.be/Y5m3FAxatX4?si=okTxhgsRrcALaCY5"
     ],
     "Song that defines your academic situation": [
-      "Toota Toota ek parinda aise Toota",
-      "https://www.youtube.com/watch?v=3DjnXpDRPFo"
+      "Ratta Maar",
+      "https://www.youtube.com/watch?v=psWV9GdEgzo"
     ],
-    "Your favourite senior name": [""],
-    "celebrity crush": [""],
+    "Your favourite senior name": ["Ishaan Oberoi,Radhika Gupta,Sneha Choudary,Priyadarshini Roy,Mehak Gupta"],
+    "celebrity crush": ["Daniel Radcliffe"],
     "Best youtube video you ever watched": [
-      "my name is Giovanni Georgio, but everybody calls me Giorgio",
+      "Teesri Mohabbat by Nawab Midha(don't open)",
+      "https://youtu.be/HVi4pe6gh4U?si=j32QJQbIGtimdkoM"
+    ],
+    "Codeforces id": "",
+    "Codechef id": "https://www.codechef.com/users/nandini24coder",
+    "Atcoder id": "https://codeforces.com/profile/nandini24gupta07",
+    "Discord username": "nandini7384",
+    "Instagram": "https://www.instagram.com/nandinigupta6810/"
+  },
+  {
+  "Name": "Nivedh Biju Pazhayedathuparambil",
+    "College": "Indian Institute of Information Technology Design And Manufacturing, Kancheepuram",
+    "Passout Year": "2026",
+    "Song that defines your relationship status": [
+      "We Dont Talk Anymore",
+      "https://www.youtube.com/watch?v=3AtDnEC4zak"
+    ],
+    "Song that defines your academic situation": [
+      "why this kolaveri di",
+      "https://www.youtube.com/watch?v=YR12Z8f1Dh8"
+    ],
+    "Your favourite senior name": ["harsh"],
+    "celebrity crush": ["Shraddha Kapoor"],
+    "Best youtube video you ever watched": [
+      "ricky my man",
       "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
     ],
-    "Codeforces id": "https://codeforces.com/profile/pranavbansal21",
-    "Codechef id": "https://www.codechef.com/users/pranavbansal21",
+    "Codeforces id": "https://codeforces.com/profile/nivedh0203",
+    "Codechef id": "https://www.codechef.com/users/nivedh0203",
     "Atcoder id": "",
-    "Discord username": "pranavbansal_",
-    "Instagram": "https://www.instagram.com/pranav_bansal21/"
+    "Discord username": "greninja7723",
+    "Instagram": ""
   },
 ]
