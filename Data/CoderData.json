@@ -1527,6 +1527,32 @@
         "Instagram": "https://www.instagram.com/komal_pardasani"
      },
 
+     {
+      "Name": "Abhishek Kumar",
+      "College": "Indian Institute of Information Technology, Allahabad",
+      "Passout Year": "2026",
+      "Song that defines your relationship status": [
+        "Arjan Vailly",
+        "https://youtu.be/zqGW6x_5N0k?si=uCzE-Md-z-zzsQXn"
+      ],
+     "Song that defines your academic situation": [
+      "Baaki Sab Theek",
+      "https://youtu.be/uLPFSzXh2so?si=L4R5Qkw17UE-g1Fx"
+      ],
+      "Your favourite senior name": [""],
+      "celebrity crush": [""],
+      "Best youtube video you ever watched": [
+        "Arjan Vailly",
+        "https://youtu.be/zqGW6x_5N0k?si=uCzE-Md-z-zzsQXn"
+      ],
+      "Codeforces id": "code_abhi03",
+      "Codechef id": "code_abhi03",
+      "Atcoder id": "code_abhi03",
+      "Discord username": "abhi5h6k",
+      "Instagram": ""
+    },
+
+
 
  {
     "Name": "Vasu Singla",
@@ -1576,7 +1602,6 @@
     "Discord username": "adityax",
     "Instagram": "https://www.instagram.com/adityainduri_/"
   },
-  
   {
     "Name": "Parth Kansagra",
     "College": "Indian Institute of Technology, Hyderabad",
@@ -1600,5 +1625,5 @@
     "Atcoder id": "",
     "Discord username": "parth_1egend",
     "Instagram": "https://www.instagram.com/parth_1egend"
-  }
+  },
 ]
