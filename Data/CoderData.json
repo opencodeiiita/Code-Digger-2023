@@ -613,6 +613,7 @@
     "Discord username": "sp31",
     "Instagram": "https://www.instagram.com/imsushmitha/?hl=en"
   },
+
    {
     "Name": "Siddharth Joshi",
     "College": "Indian Institute of Information Technology, Allahabad",
@@ -635,5 +636,29 @@
     "Atcoder id": "",
     "Discord username": "sidd38983",
     "Instagram": "https://www.instagram.com/siddharth.joshi026/"
+},
+  {
+    "Name": "Aniketh Pala",
+    "College": "Vishwakarma Institute of technology, Pune",
+    "Passout Year": "2026",
+    "Song that defines your relationship status": [
+      "Tum jab paas",
+      "https://youtu.be/-BpDVIv_860?si=FvXbXbQPrfgCiOxR"
+    ],
+    "Song that defines your academic situation": [
+      "Bad liar",
+      "https://youtu.be/I-QfPUz1es8?si=rpihy01c8LBhizqe"
+      ],
+    "Your favourite senior name": [""],
+    "celebrity crush": [""],
+    "Best youtube video you ever watched": [
+      "",
+      ""
+    ],
+    "Codeforces id": "https://codeforces.com/profile/Aniketh4",
+    "Codechef id": "https://www.codechef.com/users/aniketh4",
+    "Atcoder id": "",
+    "Discord username": "aniketh.4",
+    "Instagram": "https://www.instagram.com/_aniketh.4/"
   },
 ]
