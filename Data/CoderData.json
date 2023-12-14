@@ -591,29 +591,6 @@
     "Instagram": "https://www.instagram.com/nitusherawat49/"
   },
   {
-    "Name": "SushmithaP",
-    "College": "Indian Institute of Information Technology, Allahabad",
-    "Passout Year": "2026",
-    "Song that defines your relationship status": [
-     "Dandelions","https://www.youtube.com/watch?v=MfFKKHfCRmE"
-    ],
-    "Song that defines your academic situation": [
-      "Toota Toota ek parinda aise Toota",
-      "https://www.youtube.com/watch?v=3DjnXpDRPFo"
-    ],
-    "Your favourite senior name": ["Sanjay Vishnoi"],
-    "celebrity crush": ["Siddarth alhotra"],
-    "Best youtube video you ever watched": [
-      "my name is Giovanni Georgio, but everybody calls me Giorgio",
-      "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
-    ],
-    "Codeforces id":" https://codeforces.com/profile/smith1200",
-    "Codechef id":" https://www.codechef.com/users/imsushmitha" ,
-   "Atcoder id": "",
-    "Discord username": "sp31",
-    "Instagram": "https://www.instagram.com/imsushmitha/?hl=en"
-  },
-   {
     "Name": "N.S.V.Pavan",
     "College": "Indian Institute of Information Technology, Allahabad",
     "Passout Year": "2026",
@@ -635,5 +612,28 @@
    "Atcoder id": "",
     "Discord username": "Pavan",
     "Instagram": "https://www.instagram.com/_n.s.v.pavan_56/"
+  },
+  {
+    "Name": "SushmithaP",
+    "College": "Indian Institute of Information Technology, Allahabad",
+    "Passout Year": "2026",
+    "Song that defines your relationship status": [
+     "Dandelions","https://www.youtube.com/watch?v=MfFKKHfCRmE"
+    ],
+    "Song that defines your academic situation": [
+      "Toota Toota ek parinda aise Toota",
+      "https://www.youtube.com/watch?v=3DjnXpDRPFo"
+    ],
+    "Your favourite senior name": ["Sanjay Vishnoi"],
+    "celebrity crush": ["Siddarth alhotra"],
+    "Best youtube video you ever watched": [
+      "my name is Giovanni Georgio, but everybody calls me Giorgio",
+      "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+    ],
+    "Codeforces id":" https://codeforces.com/profile/smith1200",
+    "Codechef id":" https://www.codechef.com/users/imsushmitha" ,
+   "Atcoder id": "",
+    "Discord username": "sp31",
+    "Instagram": "https://www.instagram.com/imsushmitha/?hl=en"
   },
 ]
