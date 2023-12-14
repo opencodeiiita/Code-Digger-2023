@@ -704,7 +704,7 @@
     "College": "Indian Institute of Information Technology, Allahabad",
     "Passout Year": "2026",
     "Song that defines your relationship status": [
-      "",
+      ""
     ],
     "Song that defines your academic situation": [
       "Intkam",
@@ -837,7 +837,7 @@
     "Discord username": "rnavaneeth",
     "Instagram": "https://www.instagram.com/rnavaneeth992/"
   },
-  {
+      {
   "Name": "Shaurya Jain",
     "College": "Indian Institute of Information Technology, Allahabad",
     "Passout Year": "2026",
@@ -881,6 +881,31 @@
     "Discord username": "parimal2241",
     "Instagram": "https://www.instagram.com/parimal_amrutkar_10/"
   },
+
+
+  {
+    "Name": "Lavish Meena",
+      "College": "Indian Institute of Information Technology, Allahabad",
+      "Passout Year": "2026",
+      "Song that defines your relationship status": [""],
+      "Song that defines your academic situation": [
+          "Bhagwan hai kaha re tu",
+          "https://www.youtube.com/watch?v=W9yT6gSY-pg"
+        ],
+        "Your favourite senior name": ["Srijan Jain Sir"],
+        "celebrity crush": [""],
+        "Best youtube video you ever watched": [
+          "https://www.youtube.com/watch?v=ZmKy_fnRM_E"
+        ],
+        "Codeforces id": "https://codeforces.com/profile/indian_07",
+        "Codechef id": "https://www.codechef.com/users/indian_07",
+        "Atcoder id": "",
+        "Discord username": "lavishmeena2764",
+        "Instagram": "https://www.instagram.com/lavish__meena"
+      }
+]
+
+
   {
     "Name": "Ayush Kumar",
     "College": "Indian Institute of Information Technology, Allahabad",
@@ -904,6 +929,7 @@
     "Atcoder id": "none",
     "Discord username": "Guanidine#2650",
     "Instagram": "https://www.instagram.com/ayush_hmmsss/"
+
    {
     "Name": "Satvik Dubey",
     "College": "Indian Institute of Information Technology, Allahabad",
@@ -952,3 +978,4 @@
     "Instagram": "https://www.instagram.com/mansamahendru/"
   }
 ]
+
