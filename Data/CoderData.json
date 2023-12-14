@@ -837,7 +837,7 @@
     "Discord username": "rnavaneeth",
     "Instagram": "https://www.instagram.com/rnavaneeth992/"
   },
-  {
+      {
   "Name": "Shaurya Jain",
     "College": "Indian Institute of Information Technology, Allahabad",
     "Passout Year": "2026",
@@ -880,6 +880,50 @@
     "Atcoder id": "",
     "Discord username": "parimal2241",
     "Instagram": "https://www.instagram.com/parimal_amrutkar_10/"
+  },
+  {
+    "Name": "Lavish Meena",
+      "College": "Indian Institute of Information Technology, Allahabad",
+      "Passout Year": "2026",
+      "Song that defines your relationship status": [""],
+      "Song that defines your academic situation": [
+          "Bhagwan hai kaha re tu",
+          "https://www.youtube.com/watch?v=W9yT6gSY-pg"
+        ],
+        "Your favourite senior name": ["Srijan Jain Sir"],
+        "celebrity crush": [""],
+        "Best youtube video you ever watched": [
+          "https://www.youtube.com/watch?v=ZmKy_fnRM_E"
+        ],
+        "Codeforces id": "https://codeforces.com/profile/indian_07",
+        "Codechef id": "https://www.codechef.com/users/indian_07",
+        "Atcoder id": "",
+        "Discord username": "lavishmeena2764",
+        "Instagram": "https://www.instagram.com/lavish__meena"
+      },
+  {
+    "Name": "Ayush Kumar",
+    "College": "Indian Institute of Information Technology, Allahabad",
+    "Passout Year": "2026",
+    "Song that defines your relationship status": [
+      "Dhai Litre Dudh",
+      "https://www.youtube.com/watch?v=0VwZ8e7SGgU"
+    ],
+    "Song that defines your academic situation": [
+      "Fikar Not",
+      "https://www.youtube.com/watch?v=mxva6l4bCSI"
+    ],
+    "Your favourite senior name": ["Hooman Sir"],
+    "celebrity crush": ["Oliviakmorris"],
+    "Best youtube video you ever watched": [
+      "A dream road trip to heaven Ladakh",
+      "https://www.youtube.com/watch?v=aV9gfuUhegE&t=11s"
+    ],
+    "Codeforces id": "https://codeforces.com/profile/ayush_noob_257",
+    "Codechef id": "https://www.codechef.com/users/ayushkumar2572",
+    "Atcoder id": "none",
+    "Discord username": "Guanidine#2650",
+    "Instagram": "https://www.instagram.com/ayush_hmmsss/"
   },
    {
     "Name": "Satvik Dubey",
@@ -929,6 +973,30 @@
     "Instagram": "https://www.instagram.com/mansamahendru/"
   },
   {
+    "Name": "Asher Ahmad",
+    "College": "Indian Institute of Information Technology, Allahabad",
+    "Passout Year": "2026",
+    "Song that defines your relationship status": [
+      "",
+      ""
+    ],
+    "Song that defines your academic situation": [
+      "DZANUM",
+      "https://www.youtube.com/watch?v=jD97hNDiyvI"
+    ],
+    "Your favourite senior name": [""],
+    "celebrity crush": [""],
+    "Best youtube video you ever watched": [
+      "",
+      ""
+    ],
+    "Codeforces id": "https://codeforces.com/profile/ash_786",
+    "Codechef id": "https://www.codechef.com/users/geeky_coder101",
+    "Atcoder id": "",
+    "Discord username": "Ash_786",
+    "Instagram": "https://www.instagram.com/_ash_3r/"
+  },
+  {
     "Name": "Shrutika Rathi",
     "College": "Indian Institute of Information Technology, Allahabad",
     "Passout Year": "2026",
@@ -951,5 +1019,5 @@
     "Atcoder id": "",
     "Discord username": "SHRUTIKA Rathi#5678",
     "Instagram": "https://www.instagram.com/shrutikarathi6"
-  }
+  },
 ]
