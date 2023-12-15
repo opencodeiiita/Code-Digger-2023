@@ -1,1 +1,1 @@
-This question uses DIRECTED GRAPH in which girlfreinds house is a node with zero indegree.
+In this problem, we are working with a directed graph where each node represents a house, and there is a series of one-way paths between these houses. The girlfriend's house is a specific node in the graph, characterized by having zero outdegree, meaning there are no outgoing paths to her house. The objective is to identify the girlfriend's house. If it is reachable by traversing the graph, output the house string; otherwise, return "not-found."
