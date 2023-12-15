@@ -1,0 +1,13 @@
+Reach your girlfriend from your house 
+Statement : You are given a vector of paths represented by strings  and you need to reach your girlfriend house 
+After you reach her house you cant go to any other house. Find the house of your girlfreind.
+Once to go forward you cants come back one way only.
+
+INPUT FORMAT:
+first line contain test cases
+first line in each test case represent number of paths
+second line represents vector of paths in form of string 
+
+OUTPUT FORMAT:
+Output the girlfreind's house.Return "not-found" if not possible
+
