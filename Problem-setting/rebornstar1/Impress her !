@@ -1,0 +1,17 @@
+Problem : 
+
+Vraj, a brilliant Student studying at Indian Institute Technology, Dholakpur, wants to impress his girlfriend by showcasing his mathematical skills. His Girlfriend gave him a problem to solve within 24 hours. He is not able to solve the problem by himself and seeks your Help to impress her.
+
+“ In an Imaginary Mathematical Island there exists 2-nary,3-nary,4-nary numbers. The decimal form of these numbers can be ***deduced with the help of initial string s (s.size()<=10) Their decimal forms are called magical numbers which can range from 0 to 10^18. You have to find the range for l-nary and r-nary numbers for the given range of (0<a<10^18) and (0<b<10^18). l-nary is the least magical number greater than ‘a’ and r-nary is the greatest magical number less than b”
+
+*** Example : Let the given string be “1011” and call this number an 3-nary number then it’s magical decimal form will be 1*(3^3)+0*(3^2)+1*(3^1)+1*(3^0) = 31 
+
+Input : 
+
+The first line of the input contains number of Test Cases (0<t<1000)
+The Second line of input contains the Initial String 
+The Third Line of the input contain range (0<=a<=10^18) and (0<=b<=10^18)
+
+Output : 
+
+Output the l and r numbers for the given input
