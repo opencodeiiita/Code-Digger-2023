@@ -15,7 +15,7 @@ For Each of the test cases:
 For each test case output maximum tastiness he can get if he chooses maximum distinct elements possible
 
 **SAMPLE INPUT**:
-<br>2 <br>
+<br>1 <br>
 4 2 <br>
 2 3 1 4<br>
 
