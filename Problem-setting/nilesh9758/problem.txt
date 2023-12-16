@@ -1,1 +1,1 @@
-
+You are given two strings x and y of length n and m respectively. you have to output a string which has alternate characters of both the strings. The first character of the output string will be of the string whose length is more, in case the length of both the string is same then any order will do.
