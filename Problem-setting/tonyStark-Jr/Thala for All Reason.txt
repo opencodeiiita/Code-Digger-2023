@@ -1,0 +1,19 @@
+                                                    Thala for All Reason
+
+Ayush lives in Thalaland where Thala is the reason for all of the fortunes. He wants to win a game in Thalalympics.
+The game is pretty simple he has to sort a given array A of n integers. Since Ayush is weak at maths he prays to Thala to help him. 
+Each time he prays to Thala, Thala can change any integer to 7. 
+Atleast How many times he have to call Thala to perform magic in the array so that he can win the competetion.
+
+Input Format:
+t testcases are given. Each test case contains 2 lines.
+First line contains single integer n number of elements in the array.
+Second line contains n space seperated integers of array.
+
+Output format:
+Output a single integer the minimum number of times Thala needs to perform his magic for each testcase in new line.
+
+Constraints
+0<t<1e5
+1<=n<=1e5
+-1e18<=Ai<=1e18
