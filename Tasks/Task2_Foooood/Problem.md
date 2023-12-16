@@ -8,8 +8,8 @@ The First line of input is an integer **T**. The number of the test case.
 
 For Each of the test cases:
 
-- First line contains two integers **n**(1 ≤ **n** ≤ 10^5^) and **k** (0 ≤ **k** ≤ 10^5^) size of array
-- Second line contains **n** space seperated integer **a[0] a[1] a[2] a[3] ..... a[n]** (1 ≤ **a[i]** ≤ 10^5^)
+- First line contains two integers **n**(1 ≤ **n** ≤ 10^5) and **k** (0 ≤ **k** ≤ 10^5) size of array
+- Second line contains **n** space seperated integer **a[0] a[1] a[2] a[3] ..... a[n]** (1 ≤ **a[i]** ≤ 10^5)
 
 **OUTPUT FORMAT**:
 For each test case output maximum tastiness he can get if he chooses maximum distinct elements possible
