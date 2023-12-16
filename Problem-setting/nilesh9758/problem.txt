@@ -1,1 +1,11 @@
-You are given two strings x and y of length n and m respectively. you have to output a string which has alternate characters of both the strings. The first character of the output string will be of the string whose length is more, in case the length of both the string is same then any order will do.
+You are given two strings x and y respectively. you have to output a string which has alternate characters of both the strings. The first character of the output string will be of the string whose length is more, in case the length of both the string is same then any order will do.
+
+Input:
+The first line of input contains ‘t’ , i.e. the number of test cases.
+Each test case consists of two strings x and y respectively.
+
+Output:
+Each line of output should contain an output string.
+
+Constraints:
+0<=t<=1000
