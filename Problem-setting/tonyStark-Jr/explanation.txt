@@ -1,0 +1,18 @@
+Explanation
+
+The logic behind my approach is whenever you found an index in array at which it is not sorted i.e Ai>Ai+1 you have to change that element to 7. 
+So for all previous element which are greater than 7 needs to be 7 and 
+since previous array is already sorted that means we have to make all elements 7 after the first appearance of a number which is greater than or equal to 7. 
+If no such element exists we simple make the next element 7 and look further.
+
+Here We have intitialised a flag which checks was there any number >=7? If flag is true we will count all the numbers which are not 7. lets say the count be 'nn7'
+
+Whenever we encounter Ai>Ai+1 we solve it by two cases. Case-1 if flag is true and case 2 if flag is false.
+
+1. Add nn7 in the answer and make next element 7 if not already 7. Reset nn7 to 0
+
+2. If at the index where array is not sorted the flag is false than we make the next element 7 and increment the answer by 1 and make flag true and will execute point 1. 
+
+
+
+
