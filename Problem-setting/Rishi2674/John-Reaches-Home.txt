@@ -1,0 +1,21 @@
+JOHN REACHES HOME
+
+
+Problem Statement:
+
+John is a busy traveler who lives away from home. He finally decides to go home which is ‘n’ units away from his current location. He has a bike which will be used for his transportation. Due to the decay in battery , the distance it can travel is reduced by a factor of 'x' before stopping. If the bike stops it needs to be restarted, otherwise if the battery has completely decayed , he would have to start walking. Initially it can travel a distance of 'a' units without stopping. If he cannot , what is the extra distance he needs to walk(nearest integer).
+
+
+Input:
+The first line of input contains ‘t’ , i.e. the number of test cases.
+Each test case consists of 3 integers ‘n’ , ‘a’ and ‘x’.
+
+Output:
+Each line of output should contain either a “YES” or a “NO”.
+Each “NO” should be accompanied by the extra distance he needs to travel.
+
+Constraints:
+0<=n<=1e5
+0<=a<=1e5
+1<x<1e5
+
