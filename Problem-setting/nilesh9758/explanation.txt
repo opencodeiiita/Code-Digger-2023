@@ -1,0 +1,6 @@
+if x=abcd and y=mnop
+output- ambncodp or manbocpd
+if x=abcd and y=pqr
+output - apbqcrd
+if x=pqrs and y=mn
+output- pmqnrs
