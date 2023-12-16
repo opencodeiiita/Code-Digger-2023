@@ -1,1 +1,5 @@
 In this problem, we are working with a directed graph where each node represents a house, and there is a series of one-way paths between these houses. The girlfriend's house is a specific node in the graph, characterized by having zero outdegree, meaning there are no outgoing paths to her house. The objective is to identify the girlfriend's house. If it is reachable by traversing the graph, output the house string; otherwise, return "not-found."
+
+TC of code as you are just traversing vector and pushing its value in unoredered pair its time complexicity in 
+O(n) as we are just traversing the vector in O(n) and inserting in unoredered map takes O(1) time.
+
