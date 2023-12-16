@@ -1,7 +1,7 @@
                                                     Thala for All Reason
 
-Ayush lives in Thalaland where Thala is the reason for all of the fortunes. He wants to win a game in Thalalympics.
-The game is pretty simple he has to sort a given array A of n integers in non decreasing order. Since Ayush is weak at maths he prays to Thala to help him. 
+Prakhar lives in Thalaland where Thala is the reason for all of the fortunes. He wants to win a game in Thalalympics.
+The game is pretty simple he has to sort a given array A of n integers in non decreasing order. Since Prakhar is weak at maths he prays to Thala to help him. 
 Each time he prays to Thala, Thala can change any integer to 7. 
 Atleast How many times he have to call Thala to perform magic in the array so that he can win the competetion.
 
