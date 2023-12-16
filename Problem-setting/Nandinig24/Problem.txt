@@ -1,0 +1,24 @@
+Problem:
+You are given a vector of paths represented by strings. Your goal is to find the house of your girlfriend. The girlfriend's house has no way to any other houses, and once you reach her house, you cannot go to any other house. The paths are one-way only, and you cannot come back. Return the girlfriend's house if it is reachable; otherwise, return "not-found".
+
+
+
+Input Format:
+
+The first line contains the number of test cases (0 < t < 10000).
+For each test case:
+The first line represents the number of paths (1 < n < 100000).
+The second line represents the vector of paths in the form of a stringS.
+
+
+Output Format:
+
+Output the girlfriend's house.
+If not possible to reach the girlfriend's house, return "not-found".
+
+Constraint: there is atmost one girlfriend house 
+            The sum of n over all test cases won't exceed 100000
+
+ .
+
+
