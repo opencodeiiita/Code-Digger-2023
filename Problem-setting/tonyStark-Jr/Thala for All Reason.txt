@@ -14,6 +14,7 @@ Output format:
 Output a single integer the minimum number of times Thala needs to perform his magic for each testcase in new line.
 
 Constraints
-0<t<1e5
+0<t<1e4
 1<=n<=1e5
 -1e18<=Ai<=1e18
+Sum of n over all test cases will not exceed 3*1e5
