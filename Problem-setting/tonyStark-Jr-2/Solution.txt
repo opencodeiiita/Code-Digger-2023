@@ -1,0 +1,52 @@
+#include <bits/stdc++.h>
+
+using namespace std;
+
+#define int long long
+
+int t1, t2;
+bool check(int sum)
+{
+    double min_top = min(t1, t2);
+    double max_top = max(t1, t2);
+    double marks_min = 30 + max(0.0, (double)(sum - 30 - min_top));
+    double marks_max = min((double)(sum - 30), min_top);
+
+    double cg = (marks_min / max_top + marks_max / min_top) * 5;
+
+    return cg >= 7.5;
+}
+void solve()
+{
+    cin >> t1 >> t2;
+    int l = 60, r = t1 + t2, m, sum = r;
+    while (r - l > 1)
+    {
+        m = l + (r - l) / 2;
+        if (check(m))
+        {
+            r = m;
+            sum = m;
+        }
+        else
+            l = m;
+    }
+    if (check(l))
+        sum = l;
+
+    int m1 = 30 + max(0LL, sum - 30 - min(t1, t2));
+    if (t1 >= t2)
+        cout << m1 << " " << sum - m1 << endl;
+    else
+        cout << sum - m1 << " " << m1 << endl;
+}
+signed main()
+{
+    int t = 1;
+    cin >> t;
+    while (t--)
+    {
+        solve();
+    }
+    return 0;
+}
