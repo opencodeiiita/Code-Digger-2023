@@ -1,0 +1,35 @@
+How many does to lose weight
+
+Aditya is a fat boy and he has decided to finally lose weight now, but he is too lazy to exercise or do any kind of physical activity other than his daily work.
+So he has decided to lose his weight by creating a calorie deficit,
+
+But, Aditya can't measure his progress due to unavailibility of a weighing scale, but he has enough knowledge to know calories in a given food item, 
+so he read some articles on the internet and concluded that-
+for every 1 kg weight loss, he needs to create a overall 7000 calories deficit .
+
+ASSUMPTION: Assume Daily requirement of every male person is 2500 cal in a day
+            Assume no error in calorie measurements
+            Assume daily calorie requirement doesnt change with weight
+Calorie Deficit: If Aditya eats 1500 cal in a particular day then it is a 2500-1500 ie 1000 cal Deficit.
+
+Aditya has started dieting n days ago, and is noting the total calorie intake of every day,
+given the calorie intake for past x days, find how much weight Aditya has lost till date.
+
+Input:
+first line contains one integer t the number of test cases
+second line contains one integer n - days past since Aditya is dieting
+third line contains an array calories of size n, whre  calories[i] display calories consumed on ith day
+
+Output:
+Output in a single line weight lost by Aditya in kgs in the past n days.(output can be negative if he overconsumes caloriesie weight gain)
+
+
+Constraints:
+1<=t<=10
+1<=n<=365
+1<=calories[i]<=7000
+
+
+
+
+
