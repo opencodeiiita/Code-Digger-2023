@@ -1,0 +1,2 @@
+Explanation:
+The given problem has to solved with a greedy approach. As he can first buy a stock and then sell it , we directly cannot subtract the minimum and maximum. So for each pair we have to keep finding the profit earned and compare it. Here the variable min_stock finds the minimum stock value until now and curr_profit defines the profit earned by this pair. If the stock remain unchanged or keep decreasing , Rishi will not invest in the stock and profit earned would be 0.

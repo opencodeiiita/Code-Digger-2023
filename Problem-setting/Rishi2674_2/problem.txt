@@ -1,0 +1,25 @@
+Stock Broker:
+
+Problem Statement:
+
+Rishi is a famous stock broker in the market and keeps investing in stocks frequently.
+But he didn't invest yesterday and wanted to find out the maximum profit he could earn. 
+On a particular day, he can buy a particular stock and sell it to gain profits.
+Note that he can only sell a stock after buying it. 
+The stock market opens at 9:30 am and closes at 4:30 pm. 
+You are given an array consisting of 8 integers consisting of stock prices at each hour including the opening and closing times. 
+Your job is to find out the maximum profit that he can earn. 
+Note: Rishi can either buy and sell a single stock or choose not to invest that day.
+
+Input: 
+The first line of input contains ‘t’ , i.e. the number of test cases.
+Each test case consists of 8 integers i.e the stock price at each hour
+
+Output:
+The output should be the maximum profit earned that day.
+
+Constraints:
+1<=t<=1e5
+1<=x<=1e5  where x denotes the stock price.
+
+
