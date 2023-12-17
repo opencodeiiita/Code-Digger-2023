@@ -1,0 +1,21 @@
+Movie Marathon Mania
+
+Problem statement:
+
+we're planning a movie marathon with the  friends, but everyone has different preferences! Each movie has a length and a happiness rating assigned to it.
+ our goal is to choose the highest total happiness from available movies within a limited time constraint. However, you can only watch a movie if none of
+  your friends have already seen it.
+
+
+  Input:
+  The first line contains two integers n and t, representing the number of movies and the total available time, respectively.
+The following n lines describe each movie. Each line contains two integers l and h, representing the movie's length (in minutes) and its happiness rating, respectively.
+
+Output:
+
+Print the single integer representing the highest total happiness achievable from watching movies within the time constraint.
+
+constraint
+1<=n<=1000
+l must be positive 
+h can be negative,positive or zero.

@@ -1,0 +1,8 @@
+Explanation:
+
+
+Sort the movies in descending order of happiness per minute (happiness divided by length).
+Iterate through the sorted list:
+If the remaining time is sufficient for the current movie, add its happiness to the total and subtract its length from the remaining time.
+Continue iterating until the remaining time is insufficient for any remaining movie.
+The final total happiness represents the optimal solution.
