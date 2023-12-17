@@ -1,0 +1,8 @@
+// There could be two different Approaches 
+Iterative 
+Binary Search (Optimal)
+
+Most Important keypoint for this question is to know that the r-nary number can’t be more than 100 or 200. 
+When there are only 100 to 200 iterations to check then the time complexity will be O(10^2*10)
+So by checking the iteration itself the answer is possible
+If we use binary search here then time complexity will be O(log(10^2)*10) which is the more optimal Approach
