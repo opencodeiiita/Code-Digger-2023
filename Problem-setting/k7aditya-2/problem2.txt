@@ -1,0 +1,30 @@
+
+Aditya wants to build body now, so he has to meet daily protein intake to progress in the gym in order to build muscle
+
+Only sources of protein for Aditya is Eggs, chicken and paneer
+he consumes each or some or neither of them in a day
+Additionally, consider through his other daily roti-sabji-dal-chawal (ie regular diet) he his consuming 30 g protein daily by default
+
+Given data of no.of eggs, grams of chicken and grams of paneer eaten each day find if he is meeting his daily protein needs or not.
+
+Information: Each egg has 6 g protein
+             100 g chicken has 30 g protein
+             100 g paneer has 20 g protein
+   min Protein need of a male person (willing to build muscle)= 1.2g per kg of body weight
+
+Input: 
+first line contains t , the no. of test cases
+second line contains W, weight of Aditya
+third line contains 3 inputs e, c, and p denoting no. of eggs, grams of chicken and grams of paneer consumed in a day by him
+
+Output:
+Only line of ouput should print "YES" if he meets his daily protein needs and "NO" if he doesn't, 
+
+
+Constraint:
+1<=t<=10
+50<=W<=200
+Aditya can't have more than this in a day:
+0<=e<=10
+0<=c<=200
+0<=p<=200

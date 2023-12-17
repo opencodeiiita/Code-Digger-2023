@@ -1,0 +1,8 @@
+protein from all food other than chicken eggs and paneer=30g
+and protein through eggs=6*no.of eggs
+                    chicken=(gms of chicken)*30/100
+                    paneer=(gms of paneer)*20/100
+
+and protein need=1.2*Weight of Aditya
+
+so 30+protein through eggs+chicken+paneer should be >= protein need of Aditya
