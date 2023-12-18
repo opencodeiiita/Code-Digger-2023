@@ -1,0 +1,6 @@
+Daily_deficit = 2500-calories consumed on ith day
+total calories deficit = sum of calorie deficit of each day (total n days)
+
+since, 7000 calories deficit correspond to 1 kg weight loss,
+therefore n days weight loss= (total_calorie_deficit)*1/(7000) kgs
+
