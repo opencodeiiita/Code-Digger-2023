@@ -1,0 +1,22 @@
+                                                     Agrim Ki Intern
+
+Agrim is the Top Comder of Aaloo Bhujiya College. As Intern season is approaching so he wants to get into some good company. 
+He have good coding skills but he needs atleast 7.5 cg to be eligible to sit in coding round. 
+There are two subjects let topper's marks be t1,t2 and Agrim's marks be m1,m2 respectively. then CG is calculated as:
+
+CG = ((m1/t1)+(m2/t2))*5. Since Agrim is so lazy he just wants atleast 7.5 cg in minimum marks as possible.(m1+m2 should be minimum). 
+Calculate how many marks agrim needs to score in both the subjects to score atleast 7.5 cg. 
+Suppose in each subject every student can score infinite marks.
+
+Note: Agrim needs atleast 30 marks in each subjects to pass.
+
+Input Format:
+You are given t testcases. Each testcase contains two integers t1 and t2 (marks of topper). 
+
+Output Format:
+For each testcase print 2 integers m1 and m2 marks of Agrim in each subject 
+Note: The order of marks must be same i.e. m1 should be marks in subject t1 and m2 in t2.
+
+Constraints:
+1<=t<=1e7
+30<=t1,t2<=1e18

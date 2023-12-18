@@ -1,0 +1,8 @@
+Explaination
+
+It can be proved mathematically that he has to score as maximum marks in subject in which topper has less marks. 
+Because in the subject where topper scores less marks even increase in numerator results in more increment due to denominator is small.
+So we let us assume sum of agrim scores be S and t2>t1. So we can calculate maximum scorable cg on this sum by giving minimum marks to 
+subject in which topper has scored more marks. Both subjects must have atleast 30 marks so if (S-30) is greater than t2 the we will increase 
+the marks in t1 subject because scoring more marks than topper will result in no increase in cg. No we will apply binary search on S because 
+if 7.5 cg is scorable on some S then it will definitely be scorable >=S.
