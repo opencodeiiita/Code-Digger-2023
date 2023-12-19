@@ -1,0 +1,18 @@
+                                                ABHI'S STRING
+                                                
+Abhi was observing some set of strings.He have found a string s having n lowercase English alphabets, and he wants to make 
+it as short as possible. To do this, he can remove any pair of adjacent char's from s desired numbers of times,but they should not 
+be same. Suppose, we take a string "jhalwaachhowk", then we can get jhalwachowk,jhalwaachkmjhalwaacho,jlwaachowk,etc. But one 
+cannot get jhalwchowk or jhalwacowk because the removed characters were "aa" and "hh" that are identical respectively. 
+What is the minimum length Abhi can achieve by applying any number of deletions?
+
+INPUT:
+The first line of the input contains a single integer t s.t 1<=t<=10^4 — the number of test cases. Descriptions of the test cases 
+follows.
+The first line of each test case contains a single integer n s.t 1<=n<= 2*10^5 — the length of the string s.
+The second line of each test case contains the string s consisting of n lowercase English letters.
+*Sum of n over all test cases do not exceed 2*10^5.
+
+OUTPUT
+For each test case, output a single number - the minimum length of the string s, after removing pairs of adjacent characters with 
+different values.

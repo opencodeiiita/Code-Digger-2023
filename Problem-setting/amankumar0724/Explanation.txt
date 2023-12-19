@@ -1,0 +1,5 @@
+Suppose there is a string of length n,(taking worse case) all char's are same.
+If any character occurs more than n/2 times then resulting string will consist only of that character brecause only one time
+occurrence is removed by one time deletion. 
+So, in order to minimize the number of these char's we can only remove one occurrence at a time.We can always do this unless until 
+we are remaining with such a character. In other cases we have to remove all possible pairs.
