@@ -1,0 +1,20 @@
+Party after OpenCode
+
+After OpenCode 23, contributors requested a party from IIITA. 
+This request was individually made by each of the n gangs present in all contributors. 
+So what happened was the i-th gang, which consists of s friends, travelled in the car, 
+which could take atmost 4 contributors, to the party. What would have been the minimum number
+of Cars required such that all members of the same gang travelled in the same Cars, 
+but each Car could take more than one gang?
+
+Input Format:
+The first line of the input contains n, the number of gangs of contributors.
+The second line contains a sequence of integers s1,s2,s3,...sn. 
+The integers are separated by a space, s is the number of contributors in the i-th gang.
+
+Output format:
+Print the single number — the minimum number of Cars necessary to drive all contributors to the party.
+
+Constraints
+1 ≤ n ≤ 10**5
+1 ≤ s ≤ 4
