@@ -1,0 +1,3 @@
+								Explaination:
+Here just check whether if half of the number of boys is strictly greater than the number of girls
+if condition is fulfilled print yes else no.

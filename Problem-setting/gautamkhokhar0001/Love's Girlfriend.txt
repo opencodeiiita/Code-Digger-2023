@@ -1,0 +1,21 @@
+								Love's Girlfriend
+Love Bansal has just cleared JEE and he desperately wants a girlfriend in college, so will choose his college accordingly.
+
+He decided to count the number of boys and the number of girls in the college
+and saw that if the number of girls in college is strictly greater than half
+of number of boys,then he might get a girlfriend else he will never get a  
+girlfriend.
+
+Let number of boys  be 'B' and number of girls in college be 'G',find out
+whether love will get a girlfriend or not.
+
+Input:
+You are given t testcases.Each test case contains 2 integers B,G.
+
+Output:
+output on a single line "yes" if Love will get a girlfriend else "no".
+
+Constraints:
+1<=t<=1e7
+B,G<=1e7.
+
