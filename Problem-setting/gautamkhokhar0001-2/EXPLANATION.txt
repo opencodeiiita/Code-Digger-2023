@@ -1,0 +1,4 @@
+                                                                EXPLANATION
+If we carefully notice the numbers we will understand that just knowing if integer part of number is odd and has 0.5 as its fraction part. Then we will always have 0.75 if we divide the number by 2. So we just needs to check if number is odd with fractional part 0.5 or not.
+If yes then print "YES"
+If no then print"NO"

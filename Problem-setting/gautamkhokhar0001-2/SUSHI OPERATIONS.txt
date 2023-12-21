@@ -1,0 +1,14 @@
+                                                          SUSHI OPERATIONS
+Sushi is a girl who doesnt know about multiplication and division. She is given a task to determine if the given number when divided by 2 yields .75 as fractionalpart or not. Since she doesnt know about multiplication and divisions create a programme for her without using '*'or'/' to complete the task.You can use addition and subtraction and other operations.
+
+Input:
+Let there be t test cases. 
+Input each number
+
+Output:
+1)If number when divided by 2 yields 0.75 as decimal part then print "YES"
+2)if it doesn't yields 0.75,then print"NO".
+
+Constraints:
+0<t<1e5 
+0<n<1e5
