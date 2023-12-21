@@ -1,0 +1,8 @@
+Array Construction Logic:
+
+Loop through all possible common differences (d) between array elements.
+Check if the common difference is a divisor of the difference between y and x.
+Calculate the starting point (p) of the array based on the common difference.
+Check if the array can be constructed within the given conditions (sorted and maximum element minimized).
+Calculate the sum of the array elements with the minimum maximum element.
+Update the answer if the current configuration is better.
