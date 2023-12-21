@@ -12,4 +12,5 @@ Hence total number of unordered pairs of disjoint subsets where P ≠ Q is (3^N 
 Adding the subset pair P = Q = ϕ,
 Required Answer = ((3^N - 1)/2) + 1.
 
+Important Note:
 Since 3^N is a very large no. for large values of N, pow function cannot be directly used as pow(3,n) cannot be type converted to int. Thus, manually powers are computed, and extensive use of modular arithmetic is required. Modular multiplicative inverse of 2 is given for ease of calculation.
