@@ -1,0 +1,31 @@
+India-Pacers.txt
+
+In the World Cup 23, Jasprit Bumrah, Mohammed Shami, and Mohammed Siraj, the trio of India Pace Attack is unstoppable. 
+The variation in the speed, swing and the bounce make them unpredictable. The batsmen are struggling to face the attack.
+But the cricket analyst of australia team, after analysing the pacers' speed identified some patterns in order 
+to construct the array of bowling speed to predict the speed at which they bowl. There is a junior analyst in Australia Cricket Team, 
+his job is to contruct the array from the given pattern to help his batters assess the speed at which they bowl.
+
+
+Karthik, the cricket analyst revealed his findings as follows
+
+- The array consists of n strictly distinct positive integers, each integer corresponding to each delivery of the India fielding innings of the match
+- The array always consists of the two elements a and b such that a is strictly less than b
+- If the array is sorted in ascending order, then the difference between all the neighboring elements are equal (x2-x1=x3-x2=...=xn-xn-1)
+
+But yeah, you are right if you think that multiple arrays may exist satisfying these conditions. 
+But after recognising the pace of the bowlers, they noticed that india team always chose that 
+one array which is always sorted and the maximum element is always minimised.
+
+Input Format:
+First line of the input contains t, representing the number of testcases
+For each of the testcases, the only line consists of three integers n, a and b, where 
+n represents the number of deliveries in the match (number of balls)
+a and b are the two elements that are always present in the array
+
+Output format:
+For each test case, print the required array which has the properties that satisifes the pattern, sorted and the maximum element is minimised
+
+Constraints
+2 <= n <= 100
+1 <= a < b <= 10**5
