@@ -1,6 +1,6 @@
 Samrat loves maths. Ritesh has presented in front of him the given challenge:
 Consider the set of natural numbers S = [1,2,3...N]. Samrat needs to create two subsets P & Q from the set S while following all the below given rules:
-1) Set P & Q can contain between 0 to N elements.
+1) Set P & Q can contain between 0 to N elements each.
 2) There exists no common elements between P & Q (P,Q are disjoint).
 3) Subset P & Q together might or might not contain all elements of S.
 4) Order of subsets don't matter. Eg, P = {1,2}, Q = {3} is same as P = {3}, Q = {1,2}.
