@@ -7,6 +7,7 @@ Consider the set of natural numbers S = [1,2,3...N]. Samrat needs to create two 
 
 Given N, find the no. of different pairs of subsets (P,Q) he can create.
 Samrat is facing trouble while solving this question. He has requested you to help him solve the question.
+Note: Modular multiplicative inverse of 2 is 500000004
 
 Constraints:
 1<=t<=1e6
