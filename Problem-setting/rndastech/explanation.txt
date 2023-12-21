@@ -1,0 +1,14 @@
+Let P and Q be disjoint subsets of S
+Now for any element i which belongs to S, following cases are possible
+1) i belongs to P, but not to Q
+2) i belongs to Q, but not to P
+3) i belongs to neither P nor Q.
+
+So, For every element there are 3 options, there are N such elements.
+Total options = 3^N.
+Here, P ≠ Q, except when P = Q = ϕ.
+So, 3^N-1 ordered pairs (P, Q) are there for which P ≠ Q.
+Hence total number of unordered pairs of disjoint subsets where P ≠ Q is (3^N - 1)/2.
+Adding the subset pair P = Q = ϕ,
+Required Answer = ((3^N - 1)/2) + 1.
+
