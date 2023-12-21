@@ -2,7 +2,7 @@ Through the Tunnel
 
 Problem:
 Alex is a pilot attempting to navigate through a cave with 'n' pairs of towers, each having a top tower and a bottom tower. The cave's height is 'k'. Alex's aircraft, with a fixed height and length of 1, needs to pass through the cave without hitting any towers.
-
+Find the image for test case for better understanding.
 Write a program that takes the number of tower pairs n, cave height k, and vectors representing top tower heights topHeights and bottom tower heights bottomHeights. It should return YES if Alex can successfully navigate the cave without collisions, and NO otherwise.
 
 Input:
