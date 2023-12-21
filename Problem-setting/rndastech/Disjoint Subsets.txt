@@ -1,0 +1,21 @@
+Samrat loves maths. Ritesh has presented in front of him the given challenge:
+Consider the set of natural numbers S = [1,2,3...N]. Samrat needs to create two subsets P & Q from the set S while following all the below given rules:
+1) Set P & Q can contain between 0 to N elements.
+2) There exists no common elements between P & Q (P,Q are disjoint).
+3) Subset P & Q together might or might not contain all elements of S.
+4) Order of subsets don't matter. Eg, P = {1,2}, Q = {3} is same as P = {3}, Q = {1,2}.
+
+Given N, find the no. of different pairs of subsets (P,Q) he can create.
+Samrat is facing trouble while solving this question. He has requested you to help him solve the question.
+
+Constraints:
+1<=t<=1e6
+1<=N<=1e5
+The sum of N over all test cases does not exceed 3*1e5.
+
+Input Format:
+The first line of input will contain a single integer T, denoting the number of test cases.
+Each test case consists of a single line of input containing an integer N.
+
+Output Format:
+For each test case, output a positive number X, the no. of different pairs of subsets P,Q he can create. Since the value of X can be quite large, output X modulo 10^9+7.
