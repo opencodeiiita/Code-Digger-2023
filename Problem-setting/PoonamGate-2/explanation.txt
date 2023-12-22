@@ -1,0 +1,13 @@
+array: 0,0,0,0,0
+a[l]+=A;
+a[r+1]+=(-A*pow(k,r-l+1))
+lets try to tweek the idea of prefix sum :
+for(int i=0;i<n;++i){
+a[i]+=a[i-1]
+}
+but in this 
+for(int i=0;i<n;++i){
+a[i]+=(a[i-1]*k)
+}
+so basically partial sum using the technique of prefix sum...
+lack of timing
