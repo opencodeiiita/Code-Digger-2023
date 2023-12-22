@@ -2,7 +2,7 @@
 #include<cstring>
 using namespace std;
 int n;
-int t;
+int T;
 int x[101];
 int dp[105][10100];
 
@@ -53,9 +53,9 @@ int rec(int level,int left){
        int q;
        cin>>q;
        while(q--){
-           cin>>t;
-           if(rec(1,t)){
-               printset(1,t);
+           cin>>T;
+           if(rec(1,T)){
+               printset(1,T);
                cout<<endl;
            }else{
                cout<<"no solution"<<endl;
