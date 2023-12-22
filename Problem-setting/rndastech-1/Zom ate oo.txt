@@ -1,0 +1,25 @@
+Samrat loves ordering food from Zom ate oo. He can spend a maximum of Rs. B per day on the app, and orders all that he wants to eat in a single order only. There are N different food items available on the app. The foods have a tastiness index of a[i] and cost m[i] each.
+The delivery charge is Rs. D per km, but buying a pro+ subscription ensures free delivery on that order only. Pro+ costs Rs. P per order.
+Samrat will order food only if total tastiness index >= T. Given all the parameters, output whether it's possible to order food, and if yes, display maximum saving possible.
+
+Input:
+First line contains an integer 't', denoting no. of test cases
+For each test case,
+Second line consists of 5 space seperated integers, N, B, D, P, T
+Third line consists of N space seperated integers, denoting a[i]
+Fourth line consists of N space seperated integers, denoting m[i].
+Fifth line consists of N space seperated integers, denoting d[i], delivery distance in km.
+
+Output
+For each test case, print maximum savings if Samrat can order food, print -1 if he cannot order.
+
+Constraints:
+1<=N<=1e5
+1<=B<=1e5
+1<=D<=1e5
+1<=P<=1e5
+1<=T<=1e5
+1<=a[i]<=1e5
+1<=m[i]<=1e5
+1<=d[i]<=1e5
+
