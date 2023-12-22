@@ -1,6 +1,8 @@
 A Special Number can be defined to follow the given below rules:
 1) If the number is single digit or double digit, it's of the form 7*n [n=0,1...,14]
 2) Else, Multiply last digit of number by 2. Subtract the result from the remaining digits. Repeat step 2, until a 2 digit or 1 digit number is obtained. The obtained number satisfies rule 1.
+Eg: 2604 = 260 - 8 = 252 = 25 - 4 = 21 (Satisfies Rule 1, therefore special no.)
+Eg: 2605 = 260 - 10 = 250 = 25 - 0 = 25 (Doesn't satisfy Rule 1, therefore not special no.)
 
 An array S is made of (10^7 + 14) special numbers arranged in ascending order, starting from the first 4 digit special number (s0).
 You are required to create a subarray X, consisting of [s1, s2,... s(U)].
