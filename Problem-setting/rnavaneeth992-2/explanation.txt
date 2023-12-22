@@ -1,0 +1,4 @@
+Code determines the minimum number of cars required for contributors from different gangs to travel to a party. 
+It uses a map to count the number of gangs with each contributor count. 
+The logic considers different cases based on the number of contributors per gang and adjusts the count accordingly. 
+The final result is printed as the minimum number of cars needed to satisfy the given conditions.
