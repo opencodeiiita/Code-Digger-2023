@@ -32,3 +32,5 @@ int main()
 
     return 0;
 }
+
+(modulus lgana rh gya ...i think ...time nhi h)
