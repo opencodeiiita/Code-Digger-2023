@@ -1,0 +1,22 @@
+Basically we can divide in 2 sections first we calculate the 
+i) no of time prefix (s[1->i]) occurs in original string and store it in array called ans.
+ans[i] is equal to no of time s[1->i] occurs in s;
+ii) check if prefix (s[1->i]) is a palindome or not.
+if it is a palindome then we just need to take => maximum=max(i*ans[i],maximum);
+and at last output value of maximum.
+
+the main challenging part is to calculate array ans.
+
+O(n^2) solution: 
+
+we will take the hash of the original string s.
+then for each prefix s[1->i] we will check if it is equal to next s[2->i+1] until end ....s[n-i+1->n]
+and increment value of ans[i] for each match.this operation is O(n^2).
+
+then for checking if a prefix is a palindrome we will make a temporary string "temp"
+and store the reverse of original string in it;
+now for each prefix s[1->i] if it is a palindrome then substring s[1->i]==temp[(n-i)->n].
+we can check in O(1) using hashing if the 2 strings are equal.
+we do this for all possible prefixes and then output the final ans accordingly.
+this operation is O(n).
+overall complexity is O(n^2).
