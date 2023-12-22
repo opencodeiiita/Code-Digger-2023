@@ -1,0 +1,5 @@
+Explanation:
+If we give a beer to a plant there are two options either it will get withered or will remain fresh.
+So imagine this in binary no. system where we can generate every no. upto n in terms of its bits in binary no. system. 
+He will name the plants as 1,2,4,8,16,32,64,128,.. and so on as the combination(sum) of these number we can generate any number upto 10^9 and every plant will drink wine as per their number combinations(only sum). For example, beer bottle number 3 will be given to servant 1 and 2(1+2=3).
+And the number of beer bottle having poison will be sum of the numbers assigned to plants withered. For example if plants with number 1,32,128,512 withered then expired will be bottle with number 1+32+128+512 = 673.

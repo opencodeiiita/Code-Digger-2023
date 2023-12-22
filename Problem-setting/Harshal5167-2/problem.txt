@@ -1,0 +1,19 @@
+Help Alex!
+
+Problem:
+Alex is in a university ad his finals are over so he is having a party at his house at midnight and its currently 12 in the afternoon. As he is inviting his friends, he has ordered n no. of beer bottles so that they can enjoy the night drinking and enjoying. 
+He gets a call from the dealer that one of the beer bottle is expired and can cause harsh effect if drunken, but he doesn't exactly knows which one. 
+He studied this year that if expired beer is pour to plants then they get withered but it takes 12 hours and he has exactly 12 hours to the party.
+He doesn't have so many plants with him so he wants to know the minimum no. of plants he required to determine which beer is expired.
+You have to help him by telling the min. no. of plants he required to determine which bottle is expired.
+
+Input:
+the first line contains 't' the no. of test cases.
+the next t lines have 'n' the no. of bottles he has
+
+Output:
+output on a new line the min no. of plants required for each test case.
+
+Constraints:
+1<=t<=10^4
+1<=n<=10^9
