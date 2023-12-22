@@ -1,0 +1,24 @@
+A Special Number can be defined to follow the given below rules:
+1) If the number is single digit or double digit, it's of the form 7*n [n=0,1...,14]
+2) Else, Multiply last digit of number by 2. Subtract the result from the remaining digits. Repeat step 2, until a 2 digit or 1 digit number is obtained. The obtained number satisfies rule 1.
+
+An array S is made of (10^7 + 14) special numbers arranged in ascending order, starting from the first 4 digit special number (s0).
+You are required to create a subarray X, consisting of [s1, s2,... s(U)].
+Given an integer n[i], find the number of elements in X, whose sum of digits is divisble by n[i].
+
+Input:
+First line of input consists of a single integer T, denoting no. of test cases.
+Each Test case consists of,
+First line containing containing integer U (denoting no. of elements in X)
+Second line containing N, no. of n[i]
+Third line containing N space seperated integers, denoting n[i]
+
+Output:
+For each test case, output N space seperated integers, number of elements in X, whose sum of digits is divisble by n[i].
+
+Constraints:
+1<=t<=1e5
+1<=U<=1e5
+1<=N<=1e3
+1<=n[i]<=1e3
+The sum of U over all test cases does not exceed 3*1e5
