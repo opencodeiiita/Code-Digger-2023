@@ -1,4 +1,4 @@
-Samrat loves ordering food from Zom ate oo. He can spend a maximum of Rs. B per day on the app, and orders all that he wants to eat in a single order only. There are N different food items available on the app. The foods have a tastiness index of a[i] and cost m[i] each.
+Samrat loves ordering food from Zom ate oo. He can spend a maximum of Rs. B per day on the app, and orders all that he wants to eat in a single order only. There are N different food items available on the app. The foods have a tastiness index of a[i] and cost m[i] each. Each item can be ordered atmost once.
 The delivery charge is Rs. D per km, but buying a pro+ subscription ensures free delivery on that order only. Pro+ costs Rs. P per order.
 Samrat will order food only if total tastiness index >= T. Given all the parameters, output whether it's possible to order food, and if yes, display maximum saving possible.
 
