@@ -21,4 +21,4 @@ Constraints:
 1<=U<=1e5
 1<=N<=1e3
 1<=n[i]<=1e3
-The sum of U over all test cases does not exceed 3*1e5
+The sum of U*N over all test cases does not exceed 3*1e6
