@@ -1,0 +1,8 @@
+The given rules are divisibility rules/checks for divisibility of a number by 7.
+(It can also be observed that all si are divisble by 7 and are multiples of 7)
+Thus, s0 is first 4 digit number divisible by 7 (1001)
+s1 = 1001 + 7
+si = 1001 + (7*i)
+Array is filled using for loop
+Digit Sum is calculated and stored for each si
+Divisibility of the digit sums is checked against each n[i] and output is generated.
