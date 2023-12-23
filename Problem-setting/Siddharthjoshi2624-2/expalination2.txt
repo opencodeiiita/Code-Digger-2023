@@ -1,0 +1,30 @@
+Basically we can divide in 2 sections first we calculate the 
+i) no of time prefix (s[1->i]) occurs in original string and store it in array called ans.
+ans[i] is equal to no of time s[1->i] occurs in s;
+ii) check if prefix (s[1->i]) is a palindome or not.
+if it is a palindome then we just need to take => maximum=max(i*ans[i],maximum);
+and at last output value of maximum.
+
+the main challenging part is to calculate array ans.
+
+O(n) solution: 
+due to time constraints this time O(n^2) won't work. 
+
+to precalculate ans array we will use KMP algorithm to count no of time a prefix occurs
+in string.you can refer here :https://cp-algorithms.com/string/prefix-function.html
+now calculate ans array as follow,
+vector<int> ans(n + 1,0);
+for (int i = 0; i < n; i++)
+    ans[pi[i]]++;
+for (int i = n-1; i > 0; i--)
+    ans[pi[i-1]] += ans[i];
+for (int i = 0; i <= n; i++)
+    ans[i]++;
+
+then for checking if a prefix is a palindrome we will make a temporary string "temp"
+and store the reverse of original string in it;
+now for each prefix s[1->i] if it is a palindrome then substring s[1->i]==temp[(n-i)->n].
+we can check in O(1) using hashing if the 2 strings are equal.
+we do this for all possible prefixes and then output the final ans accordingly.
+this operation is O(n).
+overall complexity is O(n).

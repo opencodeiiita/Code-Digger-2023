@@ -1,0 +1,5 @@
+Explanation:
+
+if topHeights[i]+bottomHeights[i]==k then it is not possible for the plane to cross this is easy to see.
+But the main problem is when topHeights[i]+bottomHeights[i]==k is satisfied but (k-(max{bottomHeights[i],bottomHeights[i+1],bottomHeights[i-1]}+1) < topHeights[i]) is not satisfied. As the plane will have no space to go through in that case. 
+So we have to check both of these cases to find whether it can cross or not.

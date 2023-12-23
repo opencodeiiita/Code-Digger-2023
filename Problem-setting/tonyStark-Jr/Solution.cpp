@@ -25,7 +25,7 @@ void solve()
 
         if (v[i] > v[i + 1])
         {
-            if (f = 1)
+            if (f == 1)
             {
                 ans += nn7;
                 if (v[i + 1] < 7)
