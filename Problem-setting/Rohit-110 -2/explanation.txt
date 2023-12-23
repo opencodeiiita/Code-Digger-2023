@@ -1,0 +1,3 @@
+To get the sum for i-th week you need to take sum of (i - 1)-th week, subtract first element of (i - 1)-th week from it 
+and add up last element of i-th week. All common elements will remain.
+Thus by moving right week by week calculate sum of all weeks and divide it by n - k + 1.
