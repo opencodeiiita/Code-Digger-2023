@@ -1,0 +1,3 @@
+The main concept used in this problem is Dynamic Programming (DP) to calculate the maximum calories burnt in a grid.The function maxCaloriesBurnt takes this grid as input along with its dimensions and returns the maximum total calories that can be burnt.
+
+The time complexity of the given code is O(nm), where n and m are the dimensions of the grid. 

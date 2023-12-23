@@ -1,0 +1,16 @@
+TITLE: Maximum calories burnt by a boy and a girl allowed to meet at once
+
+Problem Statement:
+You are given a 2-D matrix A of n rows and m columns where A[i][j] denotes the calories burnt. Two persons, a boy and a girl, start from two corners of this matrix. The boy starts from cell (1,1) and needs to reach cell (n,m). On the other hand, the girl starts from cell (n,1) and needs to reach (1,m). The boy can move right and down. The girl can move right and up. As they visit a cell, the amount in the cell A[i][j] is added to their total of calories burnt. You have to maximize the sum of total calories burnt by both of them under the condition that they shall meet only in one cell and the cost of this cell shall not be included in either of their total.
+
+Input:
+1.The first line of input contains the no. of test case.
+2.The second line of input contains two integers n and m (1 <=  n,m <= 100), representing the number of rows and columns in the matrix.
+3.The next n lines contain m integers each, representing the calories burnt in each cell of the matrix.
+
+
+Output:
+1.Output a single integer representing the maximum sum of calories burnt by both the boy and the girl.
+
+Reference:
+https://www.geeksforgeeks.org/maximum-points-collected-by-two-persons-allowed-to-meet-once/
