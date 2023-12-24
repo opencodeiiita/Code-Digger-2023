@@ -1,0 +1,10 @@
+                                                    Maths Quiz
+
+You are participating in a mathematics and computation quiz. You get a question in which you would be given two numbers.
+
+1. The number from which you would take the digits. You then make all the numbers possible out of it of varying size.
+2. The number X.
+
+Constraints: You can be sure that the first number would not have any repeating digit.
+
+You have to tell how many numbers from the list, are divisible by X.
