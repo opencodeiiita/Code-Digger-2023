@@ -1,0 +1,10 @@
+There's only one case for every checks( rows, columns and diagonals) which fails that is three '.' in a same line. 
+To tackle it in case of rows use:
+        if((row)&&(grid[i][0] != '.'))
+            winner = grid[i][0];
+instead of
+        if(row)
+            winner = grid[i][0];
+-------------------------------------------------------------------------------------------------------------------
+(grid[i][0] != '.') will ensure if for loop passes with bool row = 1, it will ignore the mentioned case. 
+Similarly for other checks too.
