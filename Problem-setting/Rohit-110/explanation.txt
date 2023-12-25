@@ -1,0 +1,6 @@
+The problem could be solved using binary search or by iterative way.
+Iterative way:
+Sort the array given array. 
+Now,Iterate through the sorted array a.
+For each element at index, increment the pointer until the time difference is greater than k.
+Update Max with the maximum of its current value and the difference between the pointer and index (number of students visited).

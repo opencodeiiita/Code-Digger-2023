@@ -1,0 +1,5 @@
+In this question, as we get binary value to be 1 then the motivation value e[i] of ith person increases by 1 else e[i] remains same, Similarly, 
+if the ith binary value is 0 then the depression value d[i] increases by 1 else d[i] remains same.
+Lets take first test case:
+wherever b[i] == 1, e[i] is increased by one otherwise e[i] is ignored and if b[i] == 0 , d[i] is increased by one otherwise d[i] is ignored.
+The we have to compare each e[i] and d[i] value. The count of e[i]>d[i] should be greater than or equal to k then seminar will be successful.

@@ -1,0 +1,3 @@
+Explaination
+
+We have to find how many numbers can be formed using the digits of the given number. We first get all the digits from the number into a integer vector. After that, we form all possible numbers from the given digits, of all sizes varying from 1 to the n

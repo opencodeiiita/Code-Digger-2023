@@ -1,0 +1,18 @@
+Calculate average:-
+Aditya has been struggling with fever for almost a week now. In Berland, a week lasts for k days, and Aditya wants to figure 
+out his average sleep time per week. He visited a doctor who asked about his sleeping schedule. Fortunately, Aditya kept 
+records of his sleep times for the last n days, denoted as a sequence a1, a2, ..., an, where ai denotes the sleeptime at the ith day.
+
+Since the number of records is too large for Aditya to handle, he needs your help to calculate the average sleep time. 
+To find the average, Aditya considers k consecutive days as a week. This means there will be n - k + 1 weeks to take 
+into consideration. For example, if k = 2, n = 3, and a = [3, 4, 7], then the result is ((3+4)+(4+7))/2 = 9.
+Calculate the average sleep times of Aditya over all the weeks.
+
+Input
+The first line contains two integer numbers n and k (1 ≤ k ≤ n ≤ 2·105).
+The second line contains n integer numbers a1, a2, ..., an (1 ≤ ai ≤ 105).
+
+Output
+Output average sleeping time over all weeks.
+
+The answer is considered to be correct if its absolute or relative error does not exceed 10 - 6. In particular, it is enough to output real number with at least 6 digits after the decimal point.

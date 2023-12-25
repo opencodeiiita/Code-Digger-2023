@@ -1,0 +1,15 @@
+Everybody likes getting something for free, especially Students.
+There's a popular belief that if, on the night before a test, a student opens their window, looks at their college records, and shouts "Go, good luck, go!" three times, 
+the good luck they call for,  helps them pass the test.
+On the night before PS exam, a group of students in a dormitory decided to give it a try. Each student performed the good luck ritual at a specific time since the night
+started.
+Here's the catch: the good luck is a bit unpredictable. It only stays around the dormitory for a limited time, T seconds. So, if the times at which two students 
+performed the ritual are more than T seconds apart, at least one of them might not get the good luck they hoped for.
+
+Input:
+The first line of the input contains integer n (1 ≤ n ≤ 100), where n — the number of students shouted "Go, good luck, go!" The second line contains n positive integers ti (1 ≤ ti ≤ 1000).
+
+The last line contains integer T (1 ≤ T ≤ 1000) — the time interval during which the good luck was near the dormitory.
+
+Output
+Print a single integer — the maximum number of students who will pass PS exam tomorrow because of the good luck visit.
