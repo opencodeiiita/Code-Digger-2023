@@ -1,0 +1,22 @@
+Poonam is  gathering 'T' funds to purchase a car. She plans to rob a bank and has 'n' bank choices available.
+Each bank choice 'i' offers an amount 'xi' to steal.
+but she juggles between attempting to teaching her pet parrot calculus .so  you help to find if a subset of the banks exists
+that sums of the bank amount up to target is equal to T
+
+input format:
+t testcases are given. Each test case contains 3 lines.
+First line contains single integer n number of banks.
+Second line contains n space seperated integer (amount in the each bank).
+third line contains no of queries q.each query contain one line.
+first line contain require 'T' fund.
+
+output format: space sperated integers whose sum is equal to T(subset of bank amount)
+
+
+Constraints:
+t<=1e4
+T<=1e4
+n<=100
+xi<=1e4
+q<=1e4;
+(here no choices of rob fraction amount of xi )

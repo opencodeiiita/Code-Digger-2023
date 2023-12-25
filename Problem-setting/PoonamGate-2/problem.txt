@@ -1,0 +1,39 @@
+Given an array of N integers and Q queries and an integer K. Initially, all the elements of the array have value 0.
+
+In each query 3 integers A, L, R is given, which means perform GP addition
+
+Arr[L]+=A
+
+Arr[L+1]+=AK
+
+Arr[L+2]+=AKK
+
+Arr[L+3]+=AKKK
+
+.
+
+.
+
+.
+
+.
+
+Arr[R]+=A*(K^(R-L))
+
+ 
+
+After performing all the operations. Print the final array % 10^9+7.
+
+
+Input Format
+
+The first line contains three space-separated integers N, Q, K where 1<=N<=10^6, 1<=Q<=10^6, 1<=K<=10^9.
+
+Next Q lines contain three space-separated integers A, L, R where 0<=A<=10^4, 1<=L<=R<=N.
+
+
+Output Format
+
+Print the N space-separated integer representing the final array %10^9+7.
+
+

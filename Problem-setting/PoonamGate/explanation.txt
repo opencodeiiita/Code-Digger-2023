@@ -1,0 +1,20 @@
+generally in questions asked find  a subset of the banks exist or not that sums up to target T
+so we used simple dp concept
+(x1,x2)(taken out of these),|(level)x3,.......(thar represent just we are at level x3(bank 3) which are taken or not according 
+to given condition or taken out )
+dp(int level,int taken) has two choices
+i).[dont take level x3] : dp[level+1, taken]
+ii).[take level after checking according to condition]: dp[level+1,taken+x[level]
+but in that twist comes when queries and printing the subset of bank amount enters in the role
+i). for printing solution we just make the function printset whose check condition and backtracking for priting the subset
+like that for ex: dp(1,16) -> dp(2,16) and dp(2,15)........
+ii). when query comes in picture TLE comes according to constraints 
+reason: for each query x is constant but T is changing .if we use anything(which is T here) in 
+recursive function (dp concept) that changes across queries then we cannot use same dp array...so 
+for each query we refresh the dp array.
+so for resolve this we make the dp array like that
+dp[int level,int sum_left] (according to this make recursive function)
+for that dp array for each query dont require refresh the array.......
+dp[int level,int sum_left] has two choices
+i).dp[ level+1, sum_left-x[i] (take)
+ii).dp[ level+1, sum_left] (dont take)
