@@ -14,9 +14,9 @@ For example:
 
 **INPUT FORMAT**
 
-first line contain integer t - number of test cases
+first line contain integer t <= 1e5 - number of test cases
 
-next t lines contain a integer **n**
+next t lines contain a integer **n** <= 1e4
 
 
 **OUTPUT FORMAT**
