@@ -1,0 +1,27 @@
+n persons attended a seminar held by Sandeep Maheshwari. A binary array b of n
+length represents that ith person is boosted or got more depressed. If b[i] is 
+1 then the ith person is gets more motivated by 1 unit else depressed by -1. The initial motivated
+and depressed condition of each ith person is represented by two arrays e and d 
+respectively. e[i] and d[i] represents the initial motivated or depressed value of ith person
+before seminar.
+Seminar is considered to be successful if atleast k people are completely motivated.
+A person is said to be completely motivated if final e'[i] > d'[i].
+
+You have to print whether the seminar was successful or not. If successful then 
+print YES else NO.
+
+b[i] ={1,0}
+,1<=t,n,e[i],d[i]<=10^5
+1<=k<=n
+sum of N over all the test cases will be less than or equal to 10^6
+
+INPUT:
+First line of input is t, the number of test cases.
+t lines follows:
+First line of each test case contains two integers n ,k
+Second line of each test case contain n space separated binary number 1 or 0 i.e. b[i].
+Third line of each test case contain n space separated positive integers e[i]
+Fourth line of each test case contain n space separated positive integers d[i]
+
+OUTPUT:
+If seminar is successful then print YES else NO.
