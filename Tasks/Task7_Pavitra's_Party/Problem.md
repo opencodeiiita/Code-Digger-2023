@@ -17,14 +17,21 @@ In the following line, print the numbers of the people Pavitra will have to invi
 #### Sample
 
 Input:
+
 5 4
+
 1 2
+
 2 3
+
 4 5
+
 3 1
 
 Output:
+
 3
+
 2 3
 
 #### Note
