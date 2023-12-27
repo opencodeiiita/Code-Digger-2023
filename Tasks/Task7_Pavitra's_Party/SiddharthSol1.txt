@@ -1,0 +1,43 @@
+#include<bits/stdc++.h>
+using namespace std;
+
+#define v vector
+#define q queue
+#define b bool
+#define i(n) for(int i=0;i<n;++i)
+
+int main(){
+    int n,m,count=0;
+    cin>>n>>m;
+
+    v<int> adj[n];
+    i(m){
+        int x,y;
+        cin>>x>>y;
+        adj[--x].push_back(--y);
+        adj[y].push_back(x);
+    }
+
+    q<int> q({0});
+    v<b> us(n);
+    v<int> d(n,1e9);
+    d[0]=0;
+    us[0]=1;
+
+    while(!q.empty()){
+        int v=q.front();
+        if(d[v]<=2) count++;
+        q.pop();
+        for(int u:adj[v]){
+            if(!us[u]){
+                us[u]=1;
+                q.push(u);
+                d[u]=d[v]+1;
+            }
+        }
+    }
+
+    cout<<count<<'\n';
+    i(n) if(d[i]<=2&&i!=0) cout<<i+1<<' ';
+    cout<<'\n';
+}
