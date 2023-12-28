@@ -7,9 +7,9 @@ using namespace std;
     cin.tie(NULL);                    \
     cout.tie(NULL)
 
-int solve(int n)
+vector<int> dp(10000 + 1, -1);
+int solve(int n, vector<int> dp)
 {
-    vector<int> dp(n + 1, -1);
     dp[0] = 1;
 
     for (int i = 1; i <= n; i++)
@@ -40,7 +40,7 @@ signed main()
     {
         int n;
         cin >> n;
-        int ans = solve(n);
+        int ans = solve(n, dp);
         cout << ans - 1 << endl;
     }
     return 0;
