@@ -32,5 +32,5 @@ For each test case output maximum required value possible
 **OUTPUT**:</br>
 8</br>
 **EXPLANATION**</br>
-Here if we delte edge 2 5 we get maximum value.
+Here if we delete edge 2 5 we get maximum value.
 
