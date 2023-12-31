@@ -3097,7 +3097,7 @@
   "Instagram": "aakash_18.1"
 },
 
- {
+{
     "Name": "Monu Kumar Singh",
     "College": "BIT Sindri",
     "Passout Year": "2026",
@@ -3121,5 +3121,30 @@
     "Discord username": "wiper0946",
     "Instagram": "https://www.instagram.com/monu.singh_17"
   },
+  {
+     "Name": "Shubham Madhav Waghmare",
+     "College": "Vidyavardhinis College Of Engineering And TEchnology",
+     "Passout Year": "2025",
+     "Song that defines your relationship status": [
+       "One Life",
+       "https://www.youtube.com/watch?v=IeDw-R2jdWc&pp=ygUIT25lIExpZmU%3D"
+     ],
+     "Song that defines your academic situation": [
+       "Ratta Maar",
+       "https://www.youtube.com/watch?v=psWV9GdEgzo"
+     ],
+     "Your favourite senior name": ["Karan"],
+     "celebrity crush": ["Kiara Advani"],
+     "Best youtube video you ever watched": [
+       "AAJ DIN CHADHEYA",
+       "https://www.youtube.com/watch?v=YSWMbwQuWAY"
+     ],
+     "Codeforces id": "https://codeforces.com/profile/",
+     "Codechef id": "https://www.codechef.com/users/",
+     "Atcoder id": "",
+     "Discord username": "imshub",
+     "Instagram": "https://www.instagram.com/imshubh.zip"
+     
+   },
 
 ]
