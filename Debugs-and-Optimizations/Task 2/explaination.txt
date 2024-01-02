@@ -1,0 +1,9 @@
+The given code fails for maximum d elements when a[0] <= b[0] < a[1] and there's atleast one pair of a[i] != b[i] for ((i >= 1) and (n >= 3)), 
+code gives output of max d for element at index 0 = b[max]-a[0], instead of b[0] - a[0].
+
+We need to change the approach for max d elements by 
+for(int i=n-1;i>=0;i--){
+        small[i] = (b[b.size()-1] - a[i]);
+        if(i==(lower_bound(b.begin(), b.end(), a[i]) - b.begin())){
+            b.erase(b.begin()+i, b.end());
+        }
