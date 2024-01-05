@@ -1,36 +1,31 @@
 **PROBLEM STATEMENT:**
 
-You are Given a binary tree.Each node of tree has some value on it represented in array **v**. You have a special power you can choose any edge of tree and remove that edge. you have to such an edge such that after deleting edge the sum of **bitwise and** of each component of tree is maximized.
+ALice gave bob two number he have to simply add them output the sum.
 
-NOTE:- For one component, value of **bitwise and** is calculated by talking bitwise and each of its node.For Example lets say a component have node **p<sub>1</sub>, p<sub>2</sub>, p<sub>3</sub>, p<sub>4</sub>** so its value will be **v[p<sub>1</sub>]&v[p<sub>2</sub>]&v[p<sub>3</sub>]&v[p<sub>4</sub>]**.
+BUT....
 
-Lets say there 2 components after deleting an edge **C<sub>1</sub>, C<sub>2</sub>** Your final value to final value will be
-bitwise and value of **C<sub>1</sub>** + bitwise and value of **C<sub>2</sub>**
+Thier is a catch Alice does a mishief, Before giving those number as input she has reversed number so now for bob to calculate sum he has to first reverse those number and then add them Now Bob also decided to do a mischeif he also outputs reversed sum. Help Bob to calculate sum.
+
+NOTE :- if after reversing, number contains leading zero remove them and output Sum For example reverse of 700 is 7 or 6400 is 46.  
 
 **INPUT FORMAT:**
 
 The First line of input is an integer **T**. The number of the test case.
 
-For Each of the test cases:
-
-- First line contains two integers **n**(1 ≤ **n** ≤ 10<sup>5</sup>)
-- Second line contains **n** space seperated integer **v[0] v[1] v[2] v[3] ..... v[n]** (1 ≤ **v[i]** ≤ 10<sup>9</sup>)
-- Next **n-1** lines contains two integer **u v** denoting and edge between node **u** and **v**.
+Each test case contains two integer **a** and **b**.
 
 **OUTPUT FORMAT**:</br>
-For each test case output maximum required value possible
+For each test case output required sum.
 
 **SAMPLE INPUT**:</br>
-1</br>
-5</br>
-2 3 5 6 8</br>
-1 3</br>
-1 2</br>
-2 4</br>
-2 5</br>
+3</br>
+24 1</br>
+4358 754</br>
+305 794</br>
 
 **OUTPUT**:</br>
-8</br>
-**EXPLANATION**</br>
-Here if we delte edge 2 5 we get maximum value.
+34</br>
+1998</br>
+1</br>
+
 
